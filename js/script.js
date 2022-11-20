@@ -23,4 +23,4 @@ window.onscroll = () =>{
    searchForm.classList.remove('active');
    menuBtn.classList.remove('fa-times');
    navbar.classList.remove('active');
-}
+} 
