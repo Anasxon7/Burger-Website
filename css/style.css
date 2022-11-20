@@ -13,7 +13,7 @@
   transition: all .2s linear;
 }
 
-html {
+html { 
   font-size: 62.5%;
   scroll-behavior: smooth;
   scroll-padding-top: 8rem;
