@@ -17,7 +17,7 @@ menuBtn.onclick = () =>{
    searchBtn.classList.remove('fa-times');
    searchForm.classList.remove('active');
 }
-
+ 
 window.onscroll = () =>{
    searchBtn.classList.remove('fa-times');
    searchForm.classList.remove('active');
